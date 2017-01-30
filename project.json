@@ -1,4 +1,5 @@
 {
   "name": "Azure Auto-Shutdown Notification",
-  "description": "An AWS Lambda function that sends a Pushbullet notication to alert an Azure VM user 15 minutes before their machine is automatically shut down daily."
+  "description": "An AWS Lambda function that sends a Pushbullet notication to alert an Azure VM user 15 minutes before their machine is automatically shut down daily.",
+  "role": "<default lambda role>"
 }

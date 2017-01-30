@@ -6,6 +6,6 @@
   "memory": 128,
   "timeout": 3,
   "hooks":{
-    "build": "mkdir libs/ && pip install -r requirements.txt -t libs/"
+    "build": "mkdir -p libs/ && pip install -r requirements.txt --target=libs"
   }
 }

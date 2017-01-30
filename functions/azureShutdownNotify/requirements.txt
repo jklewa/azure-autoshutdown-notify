@@ -1,2 +1,2 @@
-pushbullet=="0.10.0"
-bitly_api=="0.3"
+pushbullet.py==0.10.0
+bitly_api==0.3
