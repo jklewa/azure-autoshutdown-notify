@@ -1,0 +1,1 @@
+# azure-autoshutdown-notify

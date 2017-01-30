@@ -1,0 +1,11 @@
+{
+  "name": "azureAutoshutdownNotify",
+  "description": "An AWS Lambda function that sends a Pushbullet notication to alert an Azure VM user 15 minutes before their machine is automatically shut down daily.",
+  "runtime": "python",
+  "handler": "lambda_function.lambda_handler",
+  "memory": 128,
+  "timeout": 3,
+  "hooks":{
+    "build": "mkdir libs/ && pip install -r requirements.txt -t libs/"
+  }
+}
