@@ -1,0 +1,13 @@
+{
+  "skipUrl": "https://www.google.com/search?q=skip",
+  "delayUrl60": "https://www.google.com/search?q=60",
+  "delayUrl120": "https://www.google.com/search?q=120",
+  "vmName": "my-awesome-vm",
+  "guid": "",
+  "owner": "",
+  "eventType": "someEvent",
+  "text": "blah blah blah",
+  "subscriptionId": "someSubId",
+  "resourceGroupName": "resoureGroup",
+  "labName": ""
+}
