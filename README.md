@@ -1,6 +1,6 @@
 # azure-autoshutdown-notify
 
-An AWS lambda function forwards Azure's VM auto-shutdown notification (Webhook) to your Pushbullet account.
+An AWS lambda function that forwards Azure's VM auto-shutdown notification (Webhook) to your Pushbullet account.
 
 ## Setup
 
